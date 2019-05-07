@@ -1,0 +1,112 @@
+
+blockquote {
+	padding: 3em;
+	font-style: bold;
+	font-size: 26px;
+	margin-left: 4em;
+	margin-right: 4em;
+}
+p{
+	font-size:18px;
+	margin-left: 13em;
+	margin-right:13em;
+	font-family: 'Raleway', sans-serif;
+	padding: 1em;
+	text-indent: 2em;
+}
+body{
+	margin:auto;
+	color: black;
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	padding: 1em;
+	max-width: 80em;
+}
+
+h1{
+	font-size:76px;
+}
+h2{
+	font-size:30px;
+	margin-left: 7em;
+}
+h4{
+	color:#c23058;
+	margin-left: 4em;
+	margin-right: 4em;
+	font-size:30px;
+}
+h5{
+	text-align: center;
+	margin-left: 10em;
+	margin-right:10em;
+	font-size:30px;
+}
+.intro-img{
+	height: 70%;
+	width: auto;
+}
+.materialboxed{
+	height: 70%;
+	width: auto;
+}
+
+.responsive-img {
+	height:20em;
+	width:15em;
+}
+
+.title{
+	color:#c23058;
+	margin: auto;
+}
+.parallax{
+	height: auto
+	width:100%
+    background: transparent;
+    padding: 3em;
+}
+.parallax-container{
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+.credits{
+	padding-top: 1em;
+	padding-bottom: 3em;
+	margin-left: 14em;
+	margin-right: 14em;
+}
+.carousel-item{
+	color:black;
+	font-size: 20px;
+}
+.important{
+	margin-left: 5em;
+	margin-right:5em;
+	padding: 3em;
+}
+.divider{
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 10em;
+	margin-right:10em;
+}
+.nyt{
+	font-style: bold;
+	padding: 3em;
+	font-size: 12px;
+}
+figure {
+    margin: 0;
+}
+iframe{
+	padding: 2em;
+}
+
+
+.audio{
+	padding:2em;
+}
+.gif{
+   padding:2em;
+}
